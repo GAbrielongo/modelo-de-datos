@@ -1,0 +1,52 @@
+[
+  {
+    "nombre": "León",
+    "descripcion": "Conocido como el 'rey de la selva', el león es un gran felino caracterizado por la melena del macho.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg"
+  },
+  {
+    "nombre": "Elefante",
+    "descripcion": "El animal terrestre más grande, conocido por sus grandes orejas, colmillos y una distintiva trompa larga.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg"
+  },
+  {
+    "nombre": "Tigre",
+    "descripcion": "El felino más grande, con un distintivo pelaje anaranjado y rayas negras.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg"
+  },
+  {
+    "nombre": "Jirafa",
+    "descripcion": "El animal más alto, conocido por su cuello largo y patrones de manchas únicos en su pelaje.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Giraffe_standing.jpg"
+  },
+  {
+    "nombre": "Panda Gigante",
+    "descripcion": "Un oso nativo de China, famoso por su pelaje blanco y negro y su dieta principalmente de bambú.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Grosser_Panda.JPG"
+  },
+  {
+    "nombre": "Águila Calva",
+    "descripcion": "Un ave de presa conocida por su cabeza blanca distintiva, simbólica de los Estados Unidos.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bald_Eagle_%28Haliaeetus_leucocephalus%29_Kachemak_Bay%2C_Alaska.jpg/640px-Bald_Eagle_%28Haliaeetus_leucocephalus%29_Kachemak_Bay%2C_Alaska.jpg"
+  },
+  {
+    "nombre": "Lobo",
+    "descripcion": "Un depredador social, conocido por su comunicación compleja y estructura de manada.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Canis_lupus_265b.jpg/800px-Canis_lupus_265b.jpg"
+  },
+  {
+    "nombre": "Oso Polar",
+    "descripcion": "El mayor carnívoro terrestre, adaptado a la vida en el Ártico marino.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/0/09/Polar_Bear_-_Alaska.jpg"
+  },
+  {
+    "nombre": "Rinoceronte",
+    "descripcion": "Conocido por sus impresionantes cuernos frontales, existen cinco especies diferentes de rinocerontes.",
+    "foto": "https://www.selwo.es/content/dam/swa/images/descubre-el-zoo/especies-y-territorios/animales/rinoceronte-blanco/Rinoceronte-blanco-Selwo-Aventura-3.jpg"
+  },
+  {
+    "nombre": "Koala",
+    "descripcion": "Un marsupial arbóreo nativo de Australia, famoso por su dieta de hojas de eucalipto.",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg"
+  }
+]
